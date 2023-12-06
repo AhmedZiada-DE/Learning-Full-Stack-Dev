@@ -1,0 +1,1 @@
+console.log('May Allah direct me to the right path')
